@@ -1,1 +1,1 @@
-{"StartDate":"01/10/2025","EndDate":"31/12/2025","Active":true}
+{"StartDate":"01/10/2025","EndDate":"31/12/2025","Active":false}
